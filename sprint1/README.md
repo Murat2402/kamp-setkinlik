@@ -1,1 +1,1 @@
-kamp-setkinlik-gut9.vercel.app
+[kamp-setkinlik-gut9.vercel.app](kamp-setkinlik-gut9.vercel.app)
