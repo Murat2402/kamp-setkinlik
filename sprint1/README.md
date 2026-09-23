@@ -1,0 +1,1 @@
+kamp-setkinlik-gut9.vercel.app
