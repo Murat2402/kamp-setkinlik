@@ -1,0 +1,1 @@
+(https://vercel.com/murat2402/kamp-setkinlik-sprint2)[https://vercel.com/murat2402/kamp-setkinlik-sprint2]
