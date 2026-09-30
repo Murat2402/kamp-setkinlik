@@ -1,1 +1,1 @@
-https://vercel.com/murat2402/kamp-setkinlik-sprint2
+kamp-setkinlik-sprint2.vercel.app
